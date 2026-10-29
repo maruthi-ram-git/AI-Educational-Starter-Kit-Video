@@ -1,0 +1,118 @@
+WEBVTT
+
+
+1
+00:00:00.750 --> 00:00:09.698
+Deep within the human brain, billions of interconnected biological neurons process sensory information, recognize faces, and solve complex problems every single second.
+
+2
+00:00:09.798 --> 00:00:18.746
+Inspired by this miraculous natural architecture, computer scientists created Artificial Neural Networks.
+
+3
+00:00:18.846 --> 00:00:27.794
+These computational systems form the very backbone of modern Artificial Intelligence, allowing machines to learn from data, discover hidden patterns, and make intelligent decisions.
+
+4
+00:00:30.640 --> 00:00:36.324
+At the heart of every neural network lies the artificial neuron, often called a perceptron.
+
+5
+00:00:36.424 --> 00:00:42.108
+Just like a biological cell, it receives incoming signals known as inputs.
+
+6
+00:00:42.208 --> 00:00:47.892
+Each input is multiplied by an adjustable weight, which determines its relative importance.
+
+7
+00:00:47.992 --> 00:00:53.676
+The neuron calculates the weighted sum of all inputs and adds a bias to calibrate its baseline.
+
+8
+00:00:53.776 --> 00:00:59.460
+Finally, this sum passes through a non-linear activation function, deciding whether the neuron should fire its output.
+
+9
+00:01:06.100 --> 00:01:11.674
+A single neuron is simple, but immense power emerges when thousands of them connect together in layers.
+
+10
+00:01:11.774 --> 00:01:17.347
+The Input Layer receives the raw external data.
+
+11
+00:01:17.447 --> 00:01:23.021
+The signal then travels through one or more Hidden Layers, where intricate mathematical transformations take place.
+
+12
+00:01:23.121 --> 00:01:28.694
+Networks with multiple hidden layers are what we call Deep Neural Networks.
+
+13
+00:01:28.794 --> 00:01:34.368
+Ultimately, the transformed signals reach the Output Layer, which delivers the network's final prediction or classification.
+
+14
+00:01:44.320 --> 00:01:50.306
+To understand how deep networks think, let us see how they recognize an image.
+
+15
+00:01:50.406 --> 00:01:56.393
+A digital image is fed into the network as a grid of numerical pixel values.
+
+16
+00:01:56.493 --> 00:02:02.479
+The first hidden layer detects fundamental visual features, such as sharp edges, orientations, and corners.
+
+17
+00:02:02.579 --> 00:02:08.566
+The subsequent layers combine these edges to recognize complex textures and contours.
+
+18
+00:02:08.666 --> 00:02:14.652
+Higher layers assemble these contours into holistic shapes like eyes, faces, or objects, producing confident classifications.
+
+19
+00:02:19.510 --> 00:02:27.408
+How does a neural network actually learn? At first, its weights are completely random, producing erroneous guesses.
+
+20
+00:02:27.508 --> 00:02:35.406
+During training, the network performs a Forward Pass to generate an output, and a Loss Function measures the prediction error.
+
+21
+00:02:35.506 --> 00:02:43.404
+Then, a mathematical breakthrough called Backpropagation computes how each weight contributed to that error.
+
+22
+00:02:43.504 --> 00:02:51.402
+Using an optimization algorithm called Gradient Descent, the network fine-tunes its millions of weights, step by step, minimizing errors until it achieves superhuman accuracy.
+
+23
+00:02:58.160 --> 00:03:04.972
+Today, Artificial Neural Networks are transforming virtually every industry across the globe.
+
+24
+00:03:05.072 --> 00:03:11.884
+They guide autonomous self-driving cars safely through dynamic urban traffic.
+
+25
+00:03:11.984 --> 00:03:18.796
+They assist doctors by analyzing radiology scans and detecting tumors with microscopic precision.
+
+26
+00:03:18.896 --> 00:03:25.708
+They power the voice assistants on our smartphones, provide instant real-time translation between languages, and generate creative text, code, and digital art with breathtaking capability.
+
+27
+00:03:31.140 --> 00:03:39.600
+From simple perceptrons to colossal foundation models with hundreds of billions of parameters, artificial neural networks have redefined what technology can accomplish.
+
+28
+00:03:39.700 --> 00:03:48.160
+By mimicking the fundamental principles of biological learning, they are unlocking new frontiers in science, medicine, and human creativity.
+
+29
+00:03:48.260 --> 00:03:56.720
+As we advance into the future, neural networks continue to bridge the gap between human imagination and artificial intellect.
